@@ -11,3 +11,9 @@ and tell me with whom you are working together. It is up to
 you whether you want to work on the lab exercises alone or in
 pairs. If you choose to work in pairs you should still make
 sure you acquire individual skills.
+
+## Useful Links
+
+- If you still have trouble installing Haskell, you can also
+    use online services like this one:
+    <http://rextester.com/l/haskell_online_compiler>
