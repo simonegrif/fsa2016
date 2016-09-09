@@ -17,3 +17,6 @@ sure you acquire individual skills.
 - If you still have trouble installing Haskell, you can also
     use online services like this one:
     <http://rextester.com/l/haskell_online_compiler>
+
+- You can also use Haskell on the computers in the MoL room.
+    See <https://w4eg.de/etherpad/p/mol-room-haskell>.
